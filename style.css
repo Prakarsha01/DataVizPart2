@@ -1,0 +1,15 @@
+circle{
+    fill-opacity: 0.9;
+    fill: rgb(35, 129, 55);
+}
+line{
+    stroke:#3d3c22;
+    stroke-opacity:0.6;
+}
+.label{
+    font-size: x-small;
+    font-family: sans-serif;
+}
+.inactive{
+    opacity: .1;
+}
